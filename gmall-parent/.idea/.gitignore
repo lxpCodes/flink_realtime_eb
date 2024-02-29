@@ -1,0 +1,20 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/.
+/libraries/
+/.gitignore
+/compiler.xml
+/encodings.xml
+/gmall-parent.iml
+/jarRepositories.xml
+/misc.xml
+/modules.xml
+/uiDesigner.xml
+/vcs.xml
+/workspace.xml
